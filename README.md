@@ -16,8 +16,7 @@
 
 ## 1. Preámbulo
 
-[React](https://reactjs.org/), [Angular](https://angular.io/) y [Vue](https://vuejs.org/)
-son algunos de los _frameworks_ y _librerías_ de JavaScript más utilizados por
+[React](https://reactjs.org/), es uno de los _frameworks_ y _librerías_ de JavaScript más utilizados por
 lxs desarrolladorxs alrededor del mundo, y hay una razón para eso.
 En el contexto del navegador, [_mantener la interfaz sincronizada con el estado
 es difícil_](https://medium.com/dailyjs/the-deepest-reason-why-modern-javascript-frameworks-exist-933b86ebc445).
@@ -27,7 +26,7 @@ resolver un problema común a toda interfaz web. Esto nos permite concentrarnos
 mejor (dedicar más tiempo) en las caractrísticas _específicas_ de
 nuestra aplicación.
 
-Cuando elegimos una de estas tecnologías no solo importamos un pedacito de
+Cuando usamos una de estas tecnologías no solo importamos un pedacito de
 código para reusarlo (lo cuál es un gran valor per se), si no que adoptamos una
 **arquitectura**, una serie de **principios de diseño**, un **paradigma**, unas
 **abstracciones**, un **vocabulario**, una **comunidad**, ...
@@ -41,12 +40,7 @@ los que trabajes.
 ## 2. Resumen del proyecto
 
 En este proyecto tendrás la oportunidad de _re-escribir_ tu anterior proyecto de
-la _Red Social_, pero esta vez usando un _framework_ o una _librería_.
-
-Creemos que la mejor manera de enfrentarte a estas herramientas es
-eliminando de la ecuación el hecho de que tengas que entender un proyecto desde
-cero, su alcance, sus particularidades, el flujo, las validaciones, etc.
-Concéntrate en aprender y utilizar estas nuevas tecnologías.
+la _Red Social_, pero esta vez usando un _framework_ o una _librería_, en este caso, React. Concéntrate en aprender y utilizar estas nuevas tecnologías.
 
 El alcance del proyecto y el detalle de sus características es exactamente
 [el mismo que el original](https://github.com/Laboratoria/curricula-js/tree/v2.x/projects/03-social-network),
@@ -68,13 +62,10 @@ aplicación es re-escribirla usando una nueva tecnología.
 
 ## 4. Consideraciones generales
 
-Este proyecto se debe "resolver" en duplas.
+Este proyecto se puede "resolver" en duplas o individual.
 
 Discutan y pónganse de acuerdo sobre cuál de los proyectos van a hacer desde cero.
 Si no se pueden poner de acuerdo en 10 minutos, [aquí hay algo que puede ayudar](https://justflipacoin.com/)
-
-Investiguen un poco sobre estas tres herramientas propuestas (React, Angular y
-Vue) y elijan con cuál quieren trabajar.
 
 Para comenzar tendrás que hacer un _fork_ y _clonar_ este repositorio.
 
@@ -102,9 +93,8 @@ Antes de elegir un framework, te recomendamos leer los siguientes artículos:
 Hemos preparado algunos videos introductorios:
 
 * [Introducción a Frameworks de JavaScript (Lupo)](https://laboratoria-1.wistia.com/medias/22j8ut23y5)
-* [Introducción a Angular (Fabián)](https://laboratoria-1.wistia.com/medias/2dxpgs2s59)
 * [Introducción a React (Elizabeth)](https://reactjs.org/)
-* [Introducción a Vue (Luis)](https://vuejs.org/)
+
 
 No dejes de explorar la documentación oficial de cada herramienta:
 
@@ -115,25 +105,6 @@ No dejes de explorar la documentación oficial de cada herramienta:
 * [Redux - tutorial](https://egghead.io/courses/getting-started-with-redux)
 * [create-react-app](https://github.com/facebook/create-react-app)
 * [React js en español - tutorial básico, primeros pasos y ejemplos - frontendlabs.io](https://frontendlabs.io/3158--react-js-espanol-tutorial-basico-primeros-pasos-ejemplos)
-
-### Angular
-
-* [Angular - docs oficiales](https://angular.io/)
-* [Angular CLI](https://cli.angular.io/)
-* [Angular - tutorial](https://www.youtube.com/watch?v=0eWrpsCLMJQ&list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ)
-* [Angular - crud](https://www.youtube.com/watch?v=6wVolJfXn1c)
-* [Angular - redux](https://www.youtube.com/playlist?list=PLCKuOXG0bPi3FtoplJe0JOpiV6OyK30wd)
-
-### Vue
-
-* [Vue - docs oficiales](https://vuejs.org/)
-* [Vue CLI](https://cli.vuejs.org/)
-* [Vue- adicional](https://scotch.io/search?q=vue)
-* [Vue- school](https://vueschool.io/)
-
-Independientemente de si eliges React, Vue o Angular, todos estas herramientes
-se usan muchas veces en conjunción con Redux como manejador de _estado_.
-
 * [Redux - docs oficiales](https://redux.js.org/)
 
 ## 9. Checklist
